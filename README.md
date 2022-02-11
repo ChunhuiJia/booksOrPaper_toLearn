@@ -4,6 +4,7 @@
 * 无人驾驶车辆的运动控制发展现状综述-熊璐.pdf ：综述文章，粗略讲了很多控制的方法
 * Automatic Steering Methods for Autonomous Automobile Path ...(PDF-78).pdf ： 这本论文也比较推荐，对比了很多控制方法的差异，其中对LQR方法的推导和参数辨识方法做了很好的推导（推荐）
 * Autonomous+Automobile+Trajectory+Tracking+for+Off-Road+Driving_+Controller+Design,+Experimental+Validation+and+Racing†.pdf ：stanely方法的发明人详细讲解了stanely控制算法（auther:Sebastian,斯坦福）
+* 车辆动力学及控制_第2版.pdf by 拉杰什·拉贾马尼 (Rajesh Rajamani) (z-lib.org）：中译版，比较经典的车辆动力学书籍（推荐）
 
 ## planning folder
 * 规划算法_（英）拉瓦利著www.jqhtml.com.pdf ： 据说是规划算法的经典之作（推荐）
