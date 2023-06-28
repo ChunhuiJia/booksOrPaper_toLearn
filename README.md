@@ -9,3 +9,4 @@
 ## planning folder
 * 规划算法_（英）拉瓦利著www.jqhtml.com.pdf ： 据说是规划算法的经典之作（推荐）
 * motion planning.pdf ：上书对应的英文版，图是彩图，比较清晰
+* \Convex_Optimization 文件夹中有中文翻译版和英文原文的《凸优化》课本、代码、课件，是学凸优化的很好的一本书
